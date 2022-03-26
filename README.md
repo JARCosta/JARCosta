@@ -1,13 +1,15 @@
 
 
 # 2017 July
-  - ### Summer Internship at Maria Adelaide
-  - ### C# online course
+  - ### Summer Internship at [Maria Adelaide](https://mariaadelaide.com/)
+  - ### C# 2D unity course
 
 
 # 2020 - 2023
 -   ### [Home Projects](https://github.com/JARCosta/Home-Projects)
+
 -   ### Projects I developed while studying Computer Science at IST Lisbon
+
     | Tables        |Programming Language| Year  | Term |
     | ------------- | ----- | ----- | ---- |
     |[Artificial Intelligence](https://github.com/JARCosta/IA)                             |Python|2nd    |4th   |
