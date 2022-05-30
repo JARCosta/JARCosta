@@ -1,8 +1,8 @@
 
 
-# 2017 July
-  - ### Summer Internship at [Maria Adelaide](https://mariaadelaide.com/)
-  - ### C# 2D unity course
+# 2018 July
+  - ### Summer Internship at [Maria Adelaide](https://mariaadelaide.com/) and [Playsketch](http://playsketch.net/)
+  - ### C# 2D unity course [(certificate)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-d7553e16-cd48-4367-a447-73e2f10a2d3a.pdf)
 
 
 # 2020 - 2023
