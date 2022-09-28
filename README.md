@@ -12,6 +12,8 @@
 
     | Tables        |Programming Language| Year  | Term |
     | ------------- | ----- | ----- | ---- |
+    |[Computer Organization](https://github.com/JARCosta/OC)     |C|3rd    |[1st](https://fenix.tecnico.ulisboa.pt/disciplinas/OC/2022-2023/1-semestre)   |
+    |[Machine Learning](https://github.com/JARCosta/ML)     |Python|3rd    |[1st](https://fenix.tecnico.ulisboa.pt/disciplinas/Apre2/2022-2023/1-semestre)   |
     |[Artificial Intelligence](https://github.com/JARCosta/IA)     |Python|2nd    |[4th](https://fenix.tecnico.ulisboa.pt/disciplinas/IArt3/2021-2022/2-semestre)   |
     |[Databases](https://github.com/JARCosta/BD)                   |SQL   |2nd    |[4th](https://fenix.tecnico.ulisboa.pt/disciplinas/BD2/2021-2022/2-semestre)     |
     |[Probability and Statistics](https://github.com/JARCosta/PE)  |R     |2nd    |[3rd](https://fenix.tecnico.ulisboa.pt/disciplinas/PEstatisticad3/2021-2022/2-semestre)   |
