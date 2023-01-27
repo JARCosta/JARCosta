@@ -6,7 +6,7 @@
 
 
 # 2020 - 2023
--   ### [Home Projects](https://github.com/JARCosta/Home-Projects)
+-   ### [Home Projects](https://github.com/JARCosta/home-projects-public)
 
 -   ### Projects I developed while studying Computer Science at IST Lisbon
 
