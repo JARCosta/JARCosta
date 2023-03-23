@@ -10,7 +10,7 @@
 
 -   ### Projects I developed while studying Computer Science at IST Lisbon
 
-    | Tables        |Programming Language| Year  | Term |
+    | Subject       |Programming Language| Year  | Term |
     | ------------- | ----- | ----- | ---- |
     |[Systems Analysis and Modeling](https://github.com/JARCosta/AMS)     		|UML/BPMN/SysML	|3rd    |[2nd](https://fenix.tecnico.ulisboa.pt/disciplinas/Mod/2022-2023/1-semestre)   |
     |Computer Networks                                 											|C							|3rd    |[2nd](https://fenix.tecnico.ulisboa.pt/disciplinas/RC-3/2022-2023/1-semestre)   |
