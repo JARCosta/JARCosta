@@ -1,31 +1,26 @@
-
-
-# 2018 July
-  - ### Summer Internship at [Maria Adelaide](https://mariaadelaide.com/) and [Playsketch](http://playsketch.net/)
-  - ### C# 2D unity course [(certificate)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-d7553e16-cd48-4367-a447-73e2f10a2d3a.pdf)
-
-
-# 2020 - 2023
 ## My home projects
--   ### [Home Projects](https://github.com/JARCosta/home-projects-public)
--   ### [nbaDB](https://github.com/JARCosta/nbaDB)
--   ### [csDB](https://github.com/JARCosta/csDB)
+
+- ### [Home Projects](https://github.com/JARCosta/home-projects-public)
+- ### [nbaDB](https://github.com/JARCosta/nbaDB)
+- ### [csDB](https://github.com/JARCosta/csDB)
+
 
 ## My course projects I developed while at IST Lisbon
-| Subject       |Programming Language| Year  | Quarter |
-| ----------------------------------------------------------------------- | ------------- | ----- | ------------------------------------------------------------------------------------------------- |
-|[Distributed Systems](https://github.com/JARCosta/SD)                    |Java					  |3rd    |[3rd](https://fenix.tecnico.ulisboa.pt/disciplinas/SDis/2022-2023/2-semestre)                      |
-|[Software Engineering](https://github.com/JARCosta/ES)                   |Java						|3rd    |[3rd](https://fenix.tecnico.ulisboa.pt/disciplinas/ESof2/2022-2023/2-semestre)                     |
-|[Systems Analysis and Modeling](https://github.com/JARCosta/AMS)     		|UML/BPMN/SysML	|3rd    |[2nd](https://fenix.tecnico.ulisboa.pt/disciplinas/Mod/2022-2023/1-semestre)                       |
-|Computer Networks                                 											  |C							|3rd    |[2nd](https://fenix.tecnico.ulisboa.pt/disciplinas/RC-3/2022-2023/1-semestre)                      |
-|[Computer Organization](https://github.com/JARCosta/OC)     							|C							|3rd    |[1st](https://fenix.tecnico.ulisboa.pt/disciplinas/OC/2022-2023/1-semestre)                        |
-|[Machine Learning](https://github.com/JARCosta/ML)     									|Python					|3rd    |[1st](https://fenix.tecnico.ulisboa.pt/disciplinas/Apre2/2022-2023/1-semestre)                     |
-|[Artificial Intelligence](https://github.com/JARCosta/IA)   				  		|Python					|2nd    |[4th](https://fenix.tecnico.ulisboa.pt/disciplinas/IArt3/2021-2022/2-semestre)                     |
-|[Databases](https://github.com/JARCosta/BD)                 				 	 		|SQL   					|2nd    |[4th](https://fenix.tecnico.ulisboa.pt/disciplinas/BD2/2021-2022/2-semestre)                       |
-|[Probability and Statistics](https://github.com/JARCosta/PE)  						|R     					|2nd    |[3rd](https://fenix.tecnico.ulisboa.pt/disciplinas/PEstatisticad3/2021-2022/2-semestre)            |
-|[Analysis and Synthesis of Algorithms](https://github.com/JARCosta/ASA)  |C++   					|2nd    |[2nd](https://fenix.tecnico.ulisboa.pt/disciplinas/ASA2/2021-2022/1-semestre)                      |
-|[Operating Systems](https://github.com/JARCosta/SO)           						|C     					|2nd    |[2nd](https://fenix.tecnico.ulisboa.pt/disciplinas/SO2/2021-2022/1-semestre)                       |
-|[Object-Oriented Programming](https://github.com/JARCosta/PO) 						|Java  					|2nd    |[1st](https://fenix.tecnico.ulisboa.pt/disciplinas/PO2/2021-2022/1-semestre)                       |
-|[Logic for Programming](https://github.com/JARCosta/LP)       						|Prolog					|1st    |[3rd and 4th](https://fenix.tecnico.ulisboa.pt/disciplinas/LP511132646/2020-2021/2-semestre)       |
-|[Introduction to Algorithms and Data Structures](https://github.com/JARCosta/IAED)|C     |1st    |[3rd and 4th](https://fenix.tecnico.ulisboa.pt/disciplinas/IAED1011132646/2020-2021/2-semestre)    |
-|[Foundations of Programming](https://github.com/JARCosta/FP) 						|Python					|1st    |[1st and 2nd](https://fenix.tecnico.ulisboa.pt/disciplinas/FP179577/2020-2021/1-semestre)          |
+
+| Subject       |Programming Language| Year  |
+| ----------------------------------------------------------------------- | ------------- | -----
+|[Distributed Systems](https://fenix.tecnico.ulisboa.pt/disciplinas/SDis/2022-2023/2-semestre)                            |[Java](https://github.com/JARCosta/SD)					  |3rd
+|[Software Engineering](https://fenix.tecnico.ulisboa.pt/disciplinas/ESof2/2022-2023/2-semestre)                           |[Java](https://github.com/JARCosta/ES)						|3rd
+|[Systems Analysis and Modeling](https://fenix.tecnico.ulisboa.pt/disciplinas/Mod/2022-2023/1-semestre)           		    |[UML/BPMN/SysML](https://github.com/JARCosta/AMS)	|3rd
+|[Computer Networks](https://fenix.tecnico.ulisboa.pt/disciplinas/RC-3/2022-2023/1-semestre)             								    |C							|3rd
+|[Computer Organization](https://fenix.tecnico.ulisboa.pt/disciplinas/OC/2022-2023/1-semestre)     		        					|[C](https://github.com/JARCosta/OC)							|3rd
+|[Machine Learning](https://fenix.tecnico.ulisboa.pt/disciplinas/Apre2/2022-2023/1-semestre)     	      			  					|[Python](https://github.com/JARCosta/ML)					|3rd
+|[Artificial Intelligence](https://fenix.tecnico.ulisboa.pt/disciplinas/IArt3/2021-2022/2-semestre)   				  	        	|[Python](https://github.com/JARCosta/IA)					|2nd
+|[Databases](https://fenix.tecnico.ulisboa.pt/disciplinas/BD2/2021-2022/2-semestre)                 			      	   	 		|[Python/SQL](https://github.com/JARCosta/BD)   					|2nd
+|[Probability and Statistics](https://fenix.tecnico.ulisboa.pt/disciplinas/PEstatisticad3/2021-2022/2-semestre)       				  		|[R](https://github.com/JARCosta/PE)     					|2nd
+|[Analysis and Synthesis of Algorithms](https://fenix.tecnico.ulisboa.pt/disciplinas/ASA2/2021-2022/1-semestre)           |[C++](https://github.com/JARCosta/ASA)   					|2nd
+|[Operating Systems](https://fenix.tecnico.ulisboa.pt/disciplinas/SO2/2021-2022/1-semestre)           				        		|[C](https://github.com/JARCosta/SO)     					|2nd
+|[Object-Oriented Programming](https://fenix.tecnico.ulisboa.pt/disciplinas/PO2/2021-2022/1-semestre)         						|[Java](https://github.com/JARCosta/PO)  					|2nd
+|[Logic for Programming](https://fenix.tecnico.ulisboa.pt/disciplinas/LP511132646/2020-2021/2-semestre)       						        |[Prolog](https://github.com/JARCosta/LP)					|1st
+|[Introduction to Algorithms and Data Structures](https://fenix.tecnico.ulisboa.pt/disciplinas/IAED1011132646/2020-2021/2-semestre) |[C](https://github.com/JARCosta/IAED)     |1st
+|[Foundations of Programming](https://fenix.tecnico.ulisboa.pt/disciplinas/FP179577/2020-2021/1-semestre) 						        |[Python](https://github.com/JARCosta/FP)					|1st
