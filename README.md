@@ -4,7 +4,7 @@
 - ### [nbaDB](https://github.com/JARCosta/nbaDB)
 - ### [csDB](https://github.com/JARCosta/csDB)
 
-https://fenix.tecnico.ulisboa.pt/disciplinas/Com2/2022-2023/2-semestre
+
 ## My course projects I developed while at IST Lisbon
 
 | Subject       |Programming Language| Year  |
