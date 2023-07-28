@@ -9,8 +9,8 @@
 
 | Subject       |Programming Language| Year  |
 | ----------------------------------------------------------------------- | ------------- | -----
-|[Compilers](https://fenix.tecnico.ulisboa.pt/disciplinas/Com2/2022-2023/2-semestre)                            |[Java](https://github.com/JARCosta/Com)					  |3rd
-|[Computer Graphics](https://fenix.tecnico.ulisboa.pt/disciplinas/CGra/2022-2023/2-semestre)                            |[Java](https://github.com/JARCosta/CG)					  |3rd
+|[Compilers](https://fenix.tecnico.ulisboa.pt/disciplinas/Com2/2022-2023/2-semestre)                            |[C++](https://github.com/JARCosta/Com)					  |3rd
+|[Computer Graphics](https://fenix.tecnico.ulisboa.pt/disciplinas/CGra/2022-2023/2-semestre)                            |[Javascript](https://github.com/JARCosta/CG)					  |3rd
 |[Distributed Systems](https://fenix.tecnico.ulisboa.pt/disciplinas/SDis/2022-2023/2-semestre)                            |[Java](https://github.com/JARCosta/SD)					  |3rd
 |[Software Engineering](https://fenix.tecnico.ulisboa.pt/disciplinas/ESof2/2022-2023/2-semestre)                           |[Java](https://github.com/JARCosta/ES)						|3rd
 |[Systems Analysis and Modeling](https://fenix.tecnico.ulisboa.pt/disciplinas/Mod/2022-2023/1-semestre)           		    |[UML/BPMN/SysML](https://github.com/JARCosta/AMS)	|3rd
